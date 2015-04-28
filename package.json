@@ -1,0 +1,12 @@
+{
+  "name": "newsbg",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+      "express": "*",
+      "express-generator": "*",
+      "serve-favicon": "*",
+      "rethinkdb": "*",
+      "jquery": "*"
+  }
+}
