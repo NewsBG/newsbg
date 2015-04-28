@@ -7,6 +7,8 @@
       "express-generator": "*",
       "serve-favicon": "*",
       "rethinkdb": "*",
-      "jquery": "*"
+      "jquery": "*",
+      "request": "*",
+      "cheerio": "*"
   }
 }
